@@ -10,7 +10,7 @@
 - [React pomodoro](http://afonsopacifer.github.io/react-pomodoro/) - Pomodoro timer
 - [Vue meditation](https://afonsopacifer.github.io/vue-meditation/) - Meditation timer
 - [Itunes](http://www.apple.com/br/itunes/) - Audio player
-- [TransNow Extension](https://chrome.google.com/webstore/detail/transnow/bhbbdjohjpodjdkmbdadmpmlaoecdjmb) - Extension for Chrome to help the translation in your own page
+- [Google Tradutor Extension](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?utm_source=chrome-app-launcher-info-dialog) - Extension for Chrome to help the translation in your own page
 
 ## Rules for every day
 - Read a text
@@ -29,24 +29,24 @@
 - [ ] [Totally Tooling Tips - By Addy Osmani & Matt Gaunt](https://www.youtube.com/playlist?list=PLNYkxOF6rcIB3ci6nwNyLYNU6RDOU3YyL)
 
 #### listening skills
-- [x] Lv 1 - Gibberish
-- [x] Lv 2 - Understanding single words
-- [ ] Lv 3 - Understanding only few phrases
+- [x] Lv 1 - Understanding single words
+- [ ] Lv 2 - Understanding only few phrases
+- [ ] Lv 3 - Slang
 - [ ] Lv 4 - Don't understanding only few phrases
 
 #### My Deck for spaced repetition ([Anki](http://ankisrs.net/))
+- [ ] 20 cards
 - [ ] 50 cards
 - [ ] 100 cards
 - [ ] 250 cards
 - [ ] 500 cards
 - [ ] 1000 cards
-- [ ] 2500 cards
 
 ## Challenges
 
 #### Daily
 - [ ] [Learning 100x the "Rethinking Responsive Design" in x days](special-challenges/100x-rethinking-responsive-design.md) - **total 50/100**
-- [x] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Total 15 days**
+- [ ] [Watch a Polycast episode every single day](special-challenges/polycast.md) - **Total 15 days**
 - [ ] <s>Watch a conference talk every single day</s>
 
 
